@@ -18,8 +18,8 @@ This Instagram Clone was built using the following technologies:
 
 To get this project up and running, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate into the project directory: `cd <project-directory>`
+1. Clone the repository: `git clone <https://github.com/mishasharotakala/instagram-clone>`
+2. Navigate into the project directory: `cd <instagram-clone>`
 3. Install dependencies: `npm install`
 4. Start the server: `npm start`
 
